@@ -1,6 +1,6 @@
-# Node Polls
+# Polls
 
-Node Polls is a real-time polling application powered by Fastify in Node.js. It allows users to create and participate in polls instantly. The application utilizes Prisma for database operations, ioredis for caching, and zod for data validation, ensuring both dynamism and security.
+Polls is a real-time polling application powered by Fastify in Node.js. It allows users to create and participate in polls instantly. The application utilizes Prisma for database operations, ioredis for caching, and zod for data validation, ensuring both dynamism and security.
 
 ## Features
 
