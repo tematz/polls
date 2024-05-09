@@ -10,28 +10,6 @@ Polls is a real-time polling application powered by Fastify in Node.js. It allow
 - ioredis for efficient caching mechanisms.
 - zod for robust data validation.
 
-## Installation
-
-1. Clone the repository:
-
-   ```
-   git clone <repository-url>
-   ```
-
-2. Install dependencies:
-
-   ```
-   npm install
-   ```
-
-3. Set up your environment variables.
-
-4. Run the application:
-
-   ```
-   npm start
-   ```
-
 ## Usage
 
 - Navigate to the application URL.
